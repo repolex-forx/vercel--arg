@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "vercel",
+  "repo": "arg",
+  "versions": [
+    {
+      "commit": "20e630a8a581dfe7ac9a47290b9be66d2ac5c752",
+      "parsed_at": "2026-04-25T08:20:03.975759+00:00",
+      "tag": "5.0.2",
+      "filetree": "filetree/20e630a8a581dfe7ac9a47290b9be66d2ac5c752.nq.gz",
+      "blobs": [
+        "blob/2e5320bca288312b897db71084b5b7af84e315bb.nq.gz",
+        "blob/6501df5980d25fb1dc4f3f569ae36192cdb8f5cb.nq.gz",
+        "blob/5bc071f4804e4f848409e818313fdfe8f63c447d.nq.gz",
+        "blob/3f60f4cadc95780cfbb37bf27e972a864c69cbff.nq.gz",
+        "blob/7170cff093742da9665b7226ba7ebf40b1e060f3.nq.gz",
+        "blob/100e340b76dd50e16604eacc0c66a6ccddfb8fd0.nq.gz",
+        "blob/b708f872cb51eb69058c6f83864300a5ce4b0658.nq.gz",
+        "blob/47368d76d2b916bb003ec35e0ff6162d3f23768f.nq.gz",
+        "blob/49e638f1d4f6fb4be023dc1298419a5e81859d34.nq.gz",
+        "blob/44f9f354ba3354257f701bbcf669dc5fae45792a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
